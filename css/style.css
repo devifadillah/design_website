@@ -4,12 +4,6 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
-.container {
-    width: 100%;
-    height: 550px;
-    background-size: cover;
-}
-
 .navbar {
     width: 100%;
     height: 60px;
